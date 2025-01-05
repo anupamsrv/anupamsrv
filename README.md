@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFqdWZkejN4cDFzeHY5OTh5a2RhOWUxZnowbDJ1aHA1dzJwbDIzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamsrv" alt="anupamsrv" /></a> </p>
 
 - 🔭 I’m currently working on [myPortfolio](httphttps://github.com/anupamsrv/myPortfolio.gits://github.com/anupamsrv/prosyntax.in.git)
